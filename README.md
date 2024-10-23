@@ -1,9 +1,8 @@
-[![Rust CI/CD Pipeline](https://github.com/nogibjj/Mini_Project_Rust_YL/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Mini_Project_Rust_YL/actions/workflows/ci.yml)
+[![Rust CI/CD Pipeline](https://github.com/nogibjj/mini_project_rust_yliu/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/mini_project_rust_yliu/actions/workflows/ci.yml)
 
 
 
-
-# Mini Project Rust YL
+# Mini Project Rust YLiu
 
 ### Architectural Diagram
 
